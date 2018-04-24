@@ -35,7 +35,7 @@ h1 i {
     font-size: 26px;
 }
 
-h2 {
+h2, .heading-table {
     text-transform: uppercase;
     font-size: 15px; 
     color: #5490df;
@@ -43,7 +43,7 @@ h2 {
     font-weight: bolder;
 }
 
-h3 {
+h3, .subheading-table {
     text-transform: uppercase;
     font-size: 15px; 
     font-weight: bolder;
