@@ -141,3 +141,10 @@ header span#titulation {
     height: 50px;
 }
 
+footer {
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
